@@ -4,7 +4,9 @@ export default function RightSection() {
         <div className="right-section">
             <section className="aboutSection" id="about">
                 <p>
-                    I'm a beginner programmer who's mostly self-taught. I'm currently in school for a programming degree, creating websites, databases, and low-level console programs in C++ and C#. I have a strong desire to learn and grow as a developer, and I'm always looking for new opportunities to expand my skills and knowledge. I'm passionate about programming and am eager to take on new challenges in the field.
+                    I'm a beginner programmer who's mostly self-taught. I'm currently in school for a programming degree,
+                    creating websites, databases, and low-level console programs in C++ and C#. I have a strong desire to learn and grow as a developer,
+                    and I'm always looking for new opportunities to expand my skills and knowledge. I'm passionate about programming and am eager to take on new challenges in the field.
                 </p>
             </section>
 
@@ -23,6 +25,7 @@ export default function RightSection() {
                     </div>
                 </div>
             </section>
+
             <section className="experienceSection" id="experience">
                 <div className="displayflexHelper">
                     <div className="dateExperience">
@@ -45,6 +48,7 @@ export default function RightSection() {
                     </div>
                 </div>
             </section>
+
             <section className="experienceSection" id="experience">
                 <div className="displayflexHelper">
                     <div className="dateExperience">
@@ -69,7 +73,9 @@ export default function RightSection() {
                 </div>
             </section>
 
-            <p>Website will be coded in Visual Studio Code by yours truly. Built with Next.js and CSS, deployed with Vercel. All text is set in the Inter typeface.</p>
+            <p>Website will be coded in Visual Studio Code by yours truly.
+                Built with Next.js and CSS, deployed with Vercel.
+                All text is set in the Inter typeface.</p>
         </div>
     </>
   );
