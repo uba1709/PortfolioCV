@@ -110,6 +110,22 @@ main{
     width: 100%;
 }
 
+.contactSection{
+    margin-top: 3rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.contactSection a{
+    text-decoration: none;
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+.contactSection a:hover{
+    color: var(--accent-color);
+}
 .right-section{
     background-color: var(--bg-primary);
     padding: 7rem 4rem 3rem 3rem;

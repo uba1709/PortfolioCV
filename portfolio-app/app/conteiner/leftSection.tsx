@@ -13,8 +13,10 @@ export default function LeftSection() {
                 <li><a href="#projects">PROJECTS</a></li>
             </ul>
         </section>
+        <hr></hr>
         <section className="contactSection">
-            {/* kontakt (linki do social mediów) */}
+           <a href="https://www.instagram.com/jakub.piwonski/" target="_blank" rel="noopener noreferrer"><p>Instagram</p></a>
+           <a href="https://github.com/uba1709" target="_blank" rel="noopener noreferrer"><p>GitHub</p></a>
         </section>
     </div>
   );
